@@ -19,3 +19,7 @@ Encapsulation: Refers to hiding away data and code details and only exposing wha
 Inheritance: A child class inherits the attributes and characteristics of a parent class.
 Polymorphism: Refers to overriding and overloading of methods to achieve different functionality.
 
+## Question 5: What is the strategy pattern? How would its implementation differ between a functional and object oriented system?
+A strategy pattern uses different strategies (cases) which can be selected by the delegator. In functional, functions would be used to create strategies, where as in object oriented, interfaces, abstractions and classes would be used to implement strategies.
+
+## Question 6: Imagine your is creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? Give some justification for your decision.
