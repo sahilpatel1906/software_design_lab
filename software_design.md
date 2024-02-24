@@ -11,3 +11,6 @@ Top-down refers to taking a big problem and breaking it into smaller problems un
 Bottom-up refers to using smaller parts of the system and combining them to complete full system. Examples of this is object oriented programming.
 
 ## Question 3: In which design methodology would a class diagram be most useful?
+In the bottom-up approach as class diagrams help understand how to use smaller components to build up into larger goals.
+
+## Question 4: What are the four pillars of object oriented programming? Give a single-sentence description of each.
