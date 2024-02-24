@@ -14,3 +14,8 @@ Bottom-up refers to using smaller parts of the system and combining them to comp
 In the bottom-up approach as class diagrams help understand how to use smaller components to build up into larger goals.
 
 ## Question 4: What are the four pillars of object oriented programming? Give a single-sentence description of each.
+Abstraction: Hide away implementation details of how something is done. (Think interfaces and abstract classes)
+Encapsulation: Refers to hiding away data and code details and only exposing what is needed. You dont need access to certain private attributes in a class, as long as the method can utilise them to carry out a function. Those details are unnecessary for user.
+Inheritance: A child class inherits the attributes and characteristics of a parent class.
+Polymorphism: Refers to overriding and overloading of methods to achieve different functionality.
+
